@@ -2,7 +2,7 @@
 This is a calculator which calculate loan interest and total amount to be paid
  ## By Dennis Kiprop
 ## Screenshot
-![Screenshot from 2022-05-08 14-59-27](https://user-images.githubusercontent.com/104482846/167295154-9778b7b4-a306-4a85-aab6-b10b0fe9a9f3.png)
+![2022-05-31-13-14-mkdenno github io](https://user-images.githubusercontent.com/104482846/171150882-1b01d6f6-0104-4f99-886d-7677c9d16aa1.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
